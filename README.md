@@ -7,5 +7,7 @@ This web project comes in three parts, the event manager, participant, and admin
 - As an event manager, one can view, delete, edit their listed events, create new events and view participants. <br>
 - The admin controls the website and manages event managers and participants. <br>
 <br>
+<br>
+The website was hosted locally and connected to a phpMyAdmin Database to store and retrieve user data. 
 
 **Contains other unrelated files.** 
